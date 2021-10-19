@@ -1,1 +1,2 @@
-# class-42-Harsh
+# synchronousBallMovement
+Ball moving synchronously
